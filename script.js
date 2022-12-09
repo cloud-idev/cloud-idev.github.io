@@ -1,15 +1,4 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-
-
-const appCheck = firebase.appCheck();
-// Pass your reCAPTCHA v3 site key (public key) to activate(). Make sure this
-// key is the counterpart to the secret key you set in the Firebase console.
-appCheck.activate(
-  '6LeYqGUjAAAAAKr4dx4xXXV3jtFVdxMDd96Qw9tY',
-
-  // Optional argument. If true, the SDK automatically refreshes App Check
-  // tokens as needed.
-  true);
 const firebaseConfig = {
     apiKey: "AIzaSyDqnusVOUFJiuK-3TD91AA5SkFXw67jIJQ",
     authDomain: "storage-dev-1.firebaseapp.com",
