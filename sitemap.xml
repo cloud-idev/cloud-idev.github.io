@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex ...> 
+<sitemapindex> 
 <sitemap>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -30,6 +30,6 @@
   <priority>0.80</priority>
 </url>
 </sitemap>
-</sitemapindex ...> 
+</sitemapindex> 
 
 </urlset>
